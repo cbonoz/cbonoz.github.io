@@ -1,0 +1,10 @@
+.header-img {
+  height: 40px;
+  width: 120px;
+  /*margin-bottom: 10px;*/
+  padding-bottom: 16px;
+}
+
+.movement-list {
+	size: 24px;
+}
