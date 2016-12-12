@@ -48,3 +48,8 @@
 -moz-animation:pop-in 0.5s;
 -ms-animation:pop-in 0.5s;
 }
+
+.item-padding {
+    padding: 10px;
+    font-size: 12px;
+}
