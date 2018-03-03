@@ -2,6 +2,12 @@
     margin: 20px;
 }
 
+.centered {
+    margin: 0 auto;
+    text-align: center;
+    clear: both;
+}
+
 .book-table-col {
     margin: 20px;
     padding: 20px;
