@@ -38,7 +38,12 @@
 }
 
 .header-text {
-    font-weight: bold;
+    /*font-weight: bold;*/
+    color: black !important;;
+}
+.header-hi {
+    font-weight:bolder;
+    color: blue;
 }
 
 @-webkit-keyframes pop-in {
