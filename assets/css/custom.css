@@ -41,6 +41,10 @@
     /*font-weight: bold;*/
     color: black !important;;
 }
+
+.white {
+    color:  #fff;
+}
 .header-hi {
     font-weight:bolder;
     color: blue;
